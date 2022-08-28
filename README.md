@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... group projects and team assignments.
 - 🤔 I’m looking for help with ... learning C#. 
 - 💬 Ask me about ... What I like to do outside of the classroom.
-- 📫 How to reach me: ... bakerkl@etsu.edu
+- 📫 How to reach me: ... bakerkl1@etsu.edu
 - 😄 Pronouns: ... she/her
 - ⚡ Fun fact: ... I love reading and learning new skills.
 -->
